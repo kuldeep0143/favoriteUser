@@ -19,6 +19,7 @@ const App = () => {
     } catch (error) {
       console.error(error);
     }
+
   };
 
   const loadFavorites = async () => {
